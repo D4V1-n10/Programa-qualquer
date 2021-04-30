@@ -1,0 +1,6 @@
+num = int(input("Digite um número inteiro qualquer.")
+while num > 20 and num > 0:
+ num = int(input("O número inserido é positivo, mas é maior que vinte. Digite outro:\n"))
+print("Número inserido é positivo ou negativo e é menor que vinte.")
+print()
+print("\t\t\tEncerrar Programa\t\t\t")
